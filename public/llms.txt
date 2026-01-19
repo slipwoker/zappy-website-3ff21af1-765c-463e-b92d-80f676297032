@@ -1,0 +1,57 @@
+# גורים קטנים למכירה — Generative Engine Optimization Map
+
+> A חיות מחמד business.
+
+---
+
+## Pages
+
+### בית
+https://-3ff21af1.zappy5.app
+מחפשים גורים קטנים למכירה? גלו את המגוון שלנו של גורי פודל ומלטיפו ממגדל בוטיק ביתי. בריאות ואיכות מובטחת!
+
+### הגזעים שלנו
+https://-3ff21af1.zappy5.app/breeds
+גלו את הגזעים המיוחדים שלנו - גורי פודל טויי ומלטיפו ממגדל בוטיק ביתי. כל גור עובר בדיקות בריאות קפדניות ומגיע עם אחריות מלאה.
+
+### אודותינו
+https://-3ff21af1.zappy5.app/about
+הכירו את המגדל הביתי שלנו - משפחה אוהבת חיות מחמד המתמחה בגידול גורי פודל ומלטיפו בריאים ומטופחים. למדו על הערכים והגישה שלנו.
+
+### צור קשר
+https://-3ff21af1.zappy5.app/contact
+מעוניינים באחד הגורים שלנו? צרו קשר עוד היום לקבלת מידע על גורי פודל ומלטיפו זמינים. נשמח לענות על כל שאלה ולעזור לכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-3ff21af1.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-3ff21af1.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-3ff21af1.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About גורים קטנים למכירה
+גורים קטנים למכירה is a business in the חיות מחמד industry.
+
+## Target Audience
+- משפחות אוהבות חיות מחמד
+
+## Industry
+חיות מחמד
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-3ff21af1.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-3ff21af1.zappy5.app/robots.txt
